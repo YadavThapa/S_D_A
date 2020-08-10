@@ -8,6 +8,7 @@ The main objective of the project is to help Maria and supervisor by generating 
 
 ## Result
 Followings are the research findings from our Analysis.
+
 ### How is the district summary affected?
 ![]https://github.com/YadavThapa/S_D_A/blob/master/District%20Summary1.PNG
 ![]https://github.com/YadavThapa/S_D_A/blob/master/District%20Summary2.PNG
@@ -27,8 +28,8 @@ The initial overall passing score for the Thomas High School was 90.94 % with av
 
 After replacing the nith grade's math and reading score, the result got change with overall passing score 65.06 with average math score 83.35, average reading score 83.89, % passing math 66.91, % passing score 69.66. 
 
-## How does replacing the ninth-grade scores affect the following:
-The realative changes are found as
+## Result after replacing the ninth-grade scores
+After the through analysis and comparision analysis of two result, we found the following results as
 
 ### Math and reading scores by grade
 ![]https://github.com/YadavThapa/S_D_A/blob/master/Reading%20score%20grade1.PNG
