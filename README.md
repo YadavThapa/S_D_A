@@ -24,6 +24,7 @@ By comparing above two school summary result, we came to conclusion that there i
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ![]https://github.com/YadavThapa/S_D_A/blob/master/School%20Summary1.PNG
 ![]https://github.com/YadavThapa/S_D_A/blob/master/School%20Summary2.PNG
+
 The initial overall passing score for the Thomas High School was 90.94 % with average math score 83.41,average reading score 83.84, % passing Math 93.27, % passing reading 90.94.
 
 After replacing the nith grade's math and reading score, the result got change with overall passing score 65.06 with average math score 83.35, average reading score 83.89, % passing math 66.91, % passing score 69.66. 
@@ -61,9 +62,11 @@ The final overall passing percentage is dropped to 87 with average score 83.5, r
 And ,the overall district school results not found affected after the replacing NaN values.
 
 ## Summary
-From the Disctrict School Analysis, we have found some following results.
-1. There is slight changes in overall passing result but it still has significant changes for the "Thomas High School" because the changed values has less impact to overall performace due to less number.
-2. There smaller the school size, better the overall passing result. As the number increases, the overall passing score reduces significantly.
-3. As we spend more money it will reduce the overall performance. And it is wise decision to make less spending. etc.
-
+ From the Disctrict School Analysis, we have found some following results.
+ There is slight changes in overall passing result but it still has significant contribution to "Thomas High School" and results are found as
+1. The original % of overall passing of Thomas High School was 90.94 % and it got dropped to 65.07.
+2. The original math score of Thomas High School was 83.41% and it got dropped to 83.35%.
+3. The original reading score of Thomas High School was 83.84% and it got dropped to 83.98%
+4. The original % passing Math score of Thomas High School was 93.27% and it got dropped to 66.91%
+5. The original % passing Reading Score of Thomas High School was 97.30% and it got dropped to 69.66%
 
